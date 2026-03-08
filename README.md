@@ -1,6 +1,6 @@
 # odin-admin-dashboard
 
-Project was created to complete The Odin Project.
+Project was created to complete The Odin Project and it should not be mobile responsive.
 
 ## Icons
 

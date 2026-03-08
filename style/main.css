@@ -31,7 +31,7 @@ body {
   display: grid;
   justify-content: center;
   grid-template: 1fr 2fr 3fr / 1fr;
-  padding: clamp(25px, 2vw,50px);
+  padding: clamp(25px, 2vw, 35px);
 }
 
 .header__container {

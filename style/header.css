@@ -3,6 +3,11 @@
   margin: 0;
   padding: 10px;
   font-weight: 500;
+
+  img {
+    min-width: 25px;
+    min-height: 25px;
+  }
 }
 
 .header__container > div,
@@ -10,7 +15,7 @@
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  gap: 20px;
+  gap: 15px;
 }
 
 .header__user > div {
@@ -30,7 +35,7 @@
   border-radius: 50px;
   background: var(--gray-color);
   padding: 5px 10px;
-  width: clamp(100px, 35vw, 750px);
+  width: clamp(50px, 35vh - 100px, 750px);
 }
 
 .search__bar > input:focus {
@@ -44,6 +49,6 @@
   color: var(--light-color);
   background: var(--blue-color);
 
-  padding: 10px 25px;
+  padding: 1vh 1.25vw;
   cursor: pointer;
 }
