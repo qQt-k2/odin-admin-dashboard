@@ -1,6 +1,7 @@
 # odin-admin-dashboard
 
 Project was created to complete The Odin Project and it should not be mobile responsive.
+https://qqt-k2.github.io/odin-admin-dashboard/
 
 ## Icons
 

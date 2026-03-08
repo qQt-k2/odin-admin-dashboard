@@ -35,7 +35,7 @@
   border-radius: 50px;
   background: var(--gray-color);
   padding: 5px 10px;
-  width: clamp(50px, 35vh - 100px, 750px);
+  width: clamp(50px, 35vh - 25px, 1000px);
 }
 
 .search__bar > input:focus {
