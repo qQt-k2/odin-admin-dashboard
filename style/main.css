@@ -39,6 +39,10 @@ body {
 
   color: var(--dark-color);
   background: var(--light-color);
+
+  display: grid;
+  grid-template: 1fr / 1fr;
+  justify-content: center;
 }
 
 .content__container {

@@ -2,7 +2,9 @@
 
 Project was created to complete The Odin Project.
 
-### Icons
+## Icons
+
+### Sidebar
 
 1. Home:
 https://www.flaticon.com/free-icon/home_5972798?related_id=5972798&origin=pack
@@ -30,3 +32,14 @@ https://www.flaticon.com/free-icon/headphone_5972957?related_id=5972957&origin=p
 
 9. Privacy:
 https://www.flaticon.com/free-icon/verified_5972870?related_id=5972870&origin=pack
+
+### Header
+
+1. Avatar: 
+https://www.flaticon.com/free-icon/gorilla_9308979?term=avatar&page=1&position=58&origin=search&related_id=9308979
+
+2. Search:
+https://www.flaticon.com/free-icon/search_3031293?term=search&page=1&position=2&origin=search&related_id=3031293
+
+3. Bell:
+https://www.flaticon.com/free-icon/bell_1827422?term=bell&page=1&position=5&origin=search&related_id=1827422

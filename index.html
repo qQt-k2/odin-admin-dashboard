@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="./style/reset.css">
     <link rel="stylesheet" href="./style/main.css">
     <link rel="stylesheet" href="./style/sidebar.css">
+    <link rel="stylesheet" href="./style/header.css">
 </head>
 
 <body>
@@ -63,25 +64,27 @@
     <div class="header__container">
         <div class="header__search">
             <div class="search__bar">
-                <label for="">&#9906;</label>
-                <input type="text">
+                <label for="search"><img width="20" src="./imgs/other/search.png" alt="Search Icon"></label>
+                <input type="search" id="search" name="search">
             </div>
             <div>
-                <div>&#9993;</div>
-                <img src="" alt="">
+                <div><img width="25" src="./imgs/other/notification.png" alt="Bell Icon"></div>
+                <img width="50" src="./imgs/other/gorilla.png" alt="Gorilla Avatar">
                 <div>Arthur Morgan</div>
             </div>
         </div>
         <div class="header__user">
             <div>
-                <img src="" alt="">
-                <div>Hi there,</div>
-                <div>Arthur Morgan</div>
+                <img width="75" src="./imgs/other/gorilla.png" alt="Gorilla Avatar">
+                <div>
+                    Hi there,
+                    <div>Arthur Morgan (@morgan)</div>
+                </div>
             </div>
             <div>
-                <button type="button">New</button>
-                <button type="button">Upload</button>
-                <button type="button">Share</button>
+                <button class="header__button" type="button">New</button>
+                <button class="header__button" type="button">Upload</button>
+                <button class="header__button" type="button">Share</button>
             </div>
         </div>
     </div>
