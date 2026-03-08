@@ -6,7 +6,7 @@
 }
 
 :root {
-  --blue-color: rgb(0,80,210);
+  --blue-color: rgb(0,150,230);
   --yellow-color: rgb(200,150,0);
   --gray-color: rgb(220, 220, 220);
   --light-color: rgb(240,240,240);
@@ -26,6 +26,11 @@ body {
 
   color: var(--light-color);
   background: var(--blue-color);
+
+  display: grid;
+  justify-content: center;
+  grid-template: 1fr 2fr 3fr / 1fr;
+  padding: clamp(25px, 2vw,50px);
 }
 
 .header__container {

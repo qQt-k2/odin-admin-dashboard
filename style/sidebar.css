@@ -1,0 +1,31 @@
+.header__logo > h1 > span {
+  padding: 0px 10px 0px 0px;
+}
+
+.main__settings,
+.optional__settings {
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+
+.main__settings > ul,
+.optional__settings > ul {
+  padding: 0;
+  display: grid;
+  gap: 5px;
+}
+
+.main__settings > ul > li,
+.optional__settings > ul > li {
+  display: flex;
+  align-items: center;
+  gap: 0px 15px;
+}
+
+.main__settings img,
+.optional__settings img {
+  flex: 0;
+  width: 25px;
+  height: 25px;
+  filter: invert(0.95);
+}
